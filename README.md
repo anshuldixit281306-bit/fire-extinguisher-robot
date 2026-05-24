@@ -34,11 +34,6 @@ The robot continuously scans for fire. Once detected:
  -Robot Chassis       1        
 
   
-### Relay Logic
-
-* LOW = Pump ON
-* HIGH = Pump OFF
-
 #  Working Logic
 
 ## No Fire Detected
