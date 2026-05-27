@@ -30,7 +30,7 @@ The robot continuously scans for fire. Once detected:
  -DC Motors           2        
  -Servo Motor         1        
  -Mini Water Pump     1        
- -Relay Module        1        
+ -Relay Module5v       1        
  -Robot Chassis       1        
 
   
