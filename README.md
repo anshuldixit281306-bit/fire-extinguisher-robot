@@ -210,6 +210,4 @@ void stopMotors() {
 BVOC (AI & Robotics)
 
 
-# image
 
-![project image](https://github.com/anshuldixit281306-bit/fire-extinguisher-robot/blob/deaeccc94aa41a0c848e54850c059a9cfca9fb69/IMG_20260602_120334.png)
